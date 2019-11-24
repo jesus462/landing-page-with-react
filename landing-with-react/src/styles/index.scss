@@ -1,5 +1,30 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.footer-text{
+    padding: 55px;
+}
+.footer-height{
+    height: 135px;
+}
+.card-margin{
+    margin-bottom: 30px;
+}
+.jumbo-margin{
+    margin-top: 30px;
+}
+.size-letter-navbar {
+    font-size: 25px;
+}
+.size-lettero-navbar {
+    font-size: 20px;
+}
+.list-style{
+    padding: 5px;
+}
+.nav-style{
+    align-items: right;
+    flex-grow: 0;
+}
 /* 
 
     You can write your own styles here...
